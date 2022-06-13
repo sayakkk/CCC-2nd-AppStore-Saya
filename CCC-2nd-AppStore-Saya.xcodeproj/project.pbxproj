@@ -11,6 +11,7 @@
 		3084D45A2856C8C200B3CB23 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3084D4592856C8C200B3CB23 /* ContentView.swift */; };
 		3084D45C2856C8C200B3CB23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3084D45B2856C8C200B3CB23 /* Assets.xcassets */; };
 		3084D45F2856C8C200B3CB23 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3084D45E2856C8C200B3CB23 /* Preview Assets.xcassets */; };
+		3084D4662856C95800B3CB23 /* BottomList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3084D4652856C95800B3CB23 /* BottomList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3084D4592856C8C200B3CB23 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3084D45B2856C8C200B3CB23 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3084D45E2856C8C200B3CB23 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3084D4652856C95800B3CB23 /* BottomList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3084D4572856C8C200B3CB23 /* CCC_2nd_AppStore_SayaApp.swift */,
 				3084D4592856C8C200B3CB23 /* ContentView.swift */,
+				3084D4652856C95800B3CB23 /* BottomList.swift */,
 				3084D45B2856C8C200B3CB23 /* Assets.xcassets */,
 				3084D45D2856C8C200B3CB23 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3084D45A2856C8C200B3CB23 /* ContentView.swift in Sources */,
+				3084D4662856C95800B3CB23 /* BottomList.swift in Sources */,
 				3084D4582856C8C200B3CB23 /* CCC_2nd_AppStore_SayaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
