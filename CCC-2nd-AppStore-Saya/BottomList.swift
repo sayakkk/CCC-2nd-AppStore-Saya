@@ -35,8 +35,8 @@ struct BottomList: View {
                             VStack{
                                 
                                 Text("디아블로 이모탈")
-                                    .fontWeight(.bold)
-                                    .font(.system(size: 20))
+                                    .fontWeight(.semibold)
+                                    .font(.system(size: 16))
                                     .frame(maxWidth: .infinity,  alignment: .leading)
                                     .padding(EdgeInsets(top:0, leading: 5, bottom: 2,trailing: 0))
                                 
@@ -88,8 +88,8 @@ struct BottomList: View {
                             VStack{
                                 
                                 Text("퍼펙트 아레나")
-                                    .fontWeight(.bold)
-                                    .font(.system(size: 20))
+                                    .fontWeight(.semibold)
+                                    .font(.system(size: 16))
                                     .frame(maxWidth: .infinity,  alignment: .leading)
                                     .padding(EdgeInsets(top:0, leading: 5, bottom: 2,trailing: 0))
                                 
@@ -150,8 +150,8 @@ struct BottomList: View {
                             VStack{
                                 
                                 Text("용사의 맛")
-                                    .fontWeight(.bold)
-                                    .font(.system(size: 20))
+                                    .fontWeight(.semibold)
+                                    .font(.system(size: 16))
                                     .frame(maxWidth: .infinity,  alignment: .leading)
                                     .padding(EdgeInsets(top:0, leading: 5, bottom: 2,trailing: 0))
                                 
